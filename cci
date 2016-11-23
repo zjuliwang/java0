@@ -1,0 +1,8 @@
+Public static class  Leon(){
+Public void eat();
+{
+int  bootlean =0；
+system. out.println(“我喜欢”+bootlean);
+}
+}
+  
